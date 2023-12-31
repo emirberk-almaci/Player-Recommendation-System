@@ -45,7 +45,7 @@ Our project aims to transform football scouting by integrating data science and 
 Contributions to enhance and expand this project are greatly appreciated. Please fork the repository, make your changes, and submit a pull request for review.
 
 ## License
-[Specify the project's license or copyright information.]
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 - Special thanks to Istanbul Technical University's AI and Data Engineering department for their support.
